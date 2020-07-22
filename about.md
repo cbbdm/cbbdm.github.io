@@ -1,15 +1,20 @@
 ---
 layout: page
-title: About
+title: Sobre el club
 permalink: /about/
 ---
 
-Some information about you!
+## Boquerones de Málaga
 
-### More Information
+Somos un club de baseball malagueño fundado en mayo de 2020. Queremos difundir el amor por este deporte y convertir a Málaga en un referente del baseball en nuestro país.
 
-A place to include any other types of information that you'd like to include about yourself.
+Entrenamos todas las semanas y enseñamos a jugar al baseball a toda aquella persona interesada en aprender, no importa su género, condición física, edad o conocimientos previos del deporte.
 
-### Contact me
+### ¿Quieres contactar?
 
-[email@domain.com](mailto:email@domain.com)
+Encuéntranos en:
+
+* [Instagram](https://www.instagram.com/beisbol_boquerones/)
+* [Facebook](https://www.facebook.com/Boquerones-Club-de-B%C3%A9isbol-M%C3%A1laga-102726581470744/)
+* [Twitter](https://twitter.com/Beisbolboqueron)
+* O escríbenos a [nuestra dirección de correo](mailto:email@domain.com)
