@@ -17,4 +17,4 @@ Encuéntranos en:
 * [Instagram](https://www.instagram.com/beisbol_boquerones/)
 * [Facebook](https://www.facebook.com/Boquerones-Club-de-B%C3%A9isbol-M%C3%A1laga-102726581470744/)
 * [Twitter](https://twitter.com/Beisbolboqueron)
-* O escríbenos a [nuestra dirección de correo](mailto:email@domain.com)
+* O escríbenos a [nuestra dirección de correo](mailto:beisbolboqueron@gmail.com)
