@@ -13,6 +13,17 @@ Estaremos en el campo de El Salto del Agua, en Marbella, a partir de las 10 de l
 
 ¡Muchas gracias, Marbella, por esta fantástica oportunidad!
 
+### Toda la información
+
+- Domingo 16 de agosto
+- A las 10 de la mañana
+- En el campo de béisbol El Salto del Agua (Marbella)
+- Redes sociales de Marbella Baseball Club:
+  - [Instagram](https://www.instagram.com/marbellabeisbolclub/)
+  - [Facebook](https://www.facebook.com/CLUB-de-beisbol-Marbella-110744767139721)
+
+¡Nos vemos muy pronto!
+
 <table width="100%">
     <tr>
         <th colspan="2">
@@ -28,14 +39,3 @@ Estaremos en el campo de El Salto del Agua, en Marbella, a partir de las 10 de l
         </td>
     </tr>
 </table>
-
-### Toda la información
-
-- Domingo 16 de agosto
-- A las 10 de la mañana
-- En el campo de béisbol El Salto del Agua (Marbella)
-- Redes sociales de Marbella Baseball Club:
-  - [Instagram](https://www.instagram.com/marbellabeisbolclub/)
-  - [Facebook](https://www.facebook.com/CLUB-de-beisbol-Marbella-110744767139721)
-
-¡Nos vemos muy pronto!
