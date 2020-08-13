@@ -24,18 +24,8 @@ Estaremos en el campo de El Salto del Agua, en Marbella, a partir de las 10 de l
 
 ¡Nos vemos muy pronto!
 
-<table width="100%">
-    <tr>
-        <th colspan="2">
-            Marbella Baseball Club vs Boquerones de Málaga
-        </th>
-    <tr>
-    <tr>
-        <td>
-            <img alt="Marbella Baseball Club" src="https://scontent-mad1-1.xx.fbcdn.net/v/t1.0-9/92991016_4017090351664791_6372591771922202624_n.jpg?_nc_cat=106&_nc_sid=de0e5b&_nc_ohc=Je0EpouqqfkAX-1p2fk&_nc_ht=scontent-mad1-1.xx&oh=7c1b16e2ddd02c128fa992af81f37ebf&oe=5F5C74C9" width="70%"/>
-        </td>
-        <td>
-            <img alt="Boquerones de Málaga" src="https://pbs.twimg.com/profile_images/1274646337569636356/iF9gkldx_400x400.jpg"/>
-        </td>
-    </tr>
-</table>
+## Marbella Baseball Club vs Boquerones de Málaga
+
+|||
+|||
+|<img alt="Marbella Baseball Club" src="https://scontent-mad1-1.xx.fbcdn.net/v/t1.0-9/92991016_4017090351664791_6372591771922202624_n.jpg?_nc_cat=106&_nc_sid=de0e5b&_nc_ohc=Je0EpouqqfkAX-1p2fk&_nc_ht=scontent-mad1-1.xx&oh=7c1b16e2ddd02c128fa992af81f37ebf&oe=5F5C74C9" width="70%"/>|<img alt="Boquerones de Málaga" src="https://pbs.twimg.com/profile_images/1274646337569636356/iF9gkldx_400x400.jpg"/>|
